@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Nur Alam — Full-Stack Developer | Web, Mobile & Geospatial Engineering" width="100%" />
+  <img src="D:/Projects/assetsprofile-banner.svg" alt="Nur Alam — Full-Stack Developer | Web, Mobile & Geospatial Engineering" width="100%" />
 </p>
 
 <p align="center">
