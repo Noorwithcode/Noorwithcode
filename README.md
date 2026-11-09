@@ -36,7 +36,7 @@ A bicycle navigation system focused on practical urban routing. Built with **Rea
 - Experimental research into cycling access, road conditions, and safer navigation decisions
 
 **Focus:** Mobile architecture · Geospatial routing · Real-time systems  
-**Explore:** [Live-sharing viewer](https://cyclenav-cloud.vercel.app/)
+**Explore:** [Download Android APK](https://github.com/Noorwithcode/cyclenav-demo/releases/download/v1.0.0/CycleNav-Plus-v1.0.0-arm64.apk) · [GitHub source](https://github.com/Noorwithcode/cyclenav-demo)
 
 ### 02 — PharmaERP | Pharmacy operations & inventory
 
